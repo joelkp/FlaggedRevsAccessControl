@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"JoelKP"
+		]
+	},
+	"flaggedrevsaccesscontrol-desc": "Extends [https://www.mediawiki.org/wiki/Extension:FlaggedRevs Flagged Revisions] to restrict access to unapproved page revisions",
+	"right-readstable": "Read stable versions of pages"
+}

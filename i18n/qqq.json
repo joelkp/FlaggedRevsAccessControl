@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"JoelKP"
+		]
+	},
+	"flaggedrevsaccesscontrol-desc": "{{desc|name=FlaggedRevsAccessControl|url=https://github.com/joelkp/FlaggedRevsAccessControl}}",
+	"right-readstable": "{{doc-right|readstable}}"
+}
